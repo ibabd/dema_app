@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name" : "كفاله ايتام",
+    "image":"assets/images/orphan.jpg"
+  },
+  {
+    "id": 2,
+    "name" : "سقى الماء",
+    "image": "assets/images/water.jpg"
+  },
+  {
+    "id": 3,
+    "name" : "زواج عرائس ايتام",
+    "image": "assets/images/orphan marriage.jpg"
+  },
+  {
+    "id": 4,
+    "name" : "مساعده الفقراء",
+    "image": "assets/images/help the poor.jpg"
+  },
+  {
+    "id": 5,
+    "name" : "الأوقاف",
+    "image": "assets/images/awqaf.jpg"
+  }
+]

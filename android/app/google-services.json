@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514506441424",
+    "project_id": "dema-1e959",
+    "storage_bucket": "dema-1e959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514506441424:android:284301b9538aed48c314d5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_dema_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514506441424-nqnqr13etparu4kri66q7fr2tjhv9ddr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJIguLwKL787YhAyplcq2xCI9wAsMChnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514506441424-nqnqr13etparu4kri66q7fr2tjhv9ddr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
